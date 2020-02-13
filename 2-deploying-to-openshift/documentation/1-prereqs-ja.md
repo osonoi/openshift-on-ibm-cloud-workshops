@@ -4,7 +4,7 @@
 
 [IBM Cloud アカウント] が必要です。ない場合は登録してください。 (https://cloud.ibm.com/registration)
 
-注: In order to run this workshop an IBM Cloud Lite account is not sufficient. This tutorial may incur costs. Use the [Pricing Calculator](https://cloud.ibm.com/estimator/review) to generate a cost estimate based on your projected usage.
+注: このワークショップはライトアカウントではできません。クラウド利用料金がかかります。あらかじめこちらで[コストを見積もる](https://cloud.ibm.com/estimator/review)こともできます。 行うためにはIn order to run this workshop an IBM Cloud Lite account is not sufficient. This tutorial may incur costs. Use the [Pricing Calculator](https://cloud.ibm.com/estimator/review) to generate a cost estimate based on your projected usage.
 
 We will use the [OpenShift on IBM Cloud](https://cloud.ibm.com/kubernetes/catalog/openshiftcluster) service on IBM Cloud in this hands-on workshop.
 
