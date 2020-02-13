@@ -1,12 +1,10 @@
+# Lab 1 - 前提条件のおよびコンポーネントのインストール、
+
 ## IBM Cloudにログイン
 
-> Installing prerequisites: [video (2:58 mins)](https://youtu.be/c5CtqijWXL4) and [video including windows (4:11 mins)](https://youtu.be/53XccO3NNn8)
+[IBM Cloud アカウント] が必要です。ない場合は登録してください。 (https://cloud.ibm.com/registration)
 
-## Overview 
-
-An [IBM Cloud account](https://cloud.ibm.com/registration) is needed. 
-
-Note: In order to run this workshop an IBM Cloud Lite account is not sufficient. This tutorial may incur costs. Use the [Pricing Calculator](https://cloud.ibm.com/estimator/review) to generate a cost estimate based on your projected usage.
+注: In order to run this workshop an IBM Cloud Lite account is not sufficient. This tutorial may incur costs. Use the [Pricing Calculator](https://cloud.ibm.com/estimator/review) to generate a cost estimate based on your projected usage.
 
 We will use the [OpenShift on IBM Cloud](https://cloud.ibm.com/kubernetes/catalog/openshiftcluster) service on IBM Cloud in this hands-on workshop.
 
